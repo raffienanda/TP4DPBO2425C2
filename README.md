@@ -11,5 +11,6 @@ Class ini berisikan data dari stok barang yang terdapat pada toko. Atribut yang 
 - nama
 - harga
 - kategori
+  
 Saya menambahkan atribut baru, yaitu.
 - stok
