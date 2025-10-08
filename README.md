@@ -19,4 +19,4 @@ Saya menambahkan atribut baru, yaitu.
 class ini berisikan GUI dari program, yang bertujuan untuk mengatur GUI dan melakukan method seperti insert, delete, update, dan filter.
 
 3. Desain GUI
-   <img width="1463" height="917" alt="image" src="https://github.com/user-attachments/assets/80f3dca5-625e-4ef9-a7eb-02bc622e5690" />
+   <img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/80f3dca5-625e-4ef9-a7eb-02bc622e5690" />
